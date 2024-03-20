@@ -552,4 +552,10 @@ MigrationBackup/
 # End of https://www.toptal.com/developers/gitignore/api/venv,python,vs,jupyternotebooks
 
 # User's choose
-.Data/
+.vscode
+
+Data/
+
+
+#temporary
+trash/ 
